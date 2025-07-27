@@ -6,11 +6,11 @@ Potato is a **fully responsive and feature-rich e-commerce frontend** designed f
 
 ✅ **Modern & Responsive Design** – Fully optimized for all screen sizes  
 ✅ **Blog Page** – Stay updated with the latest fashion trends 
-✅ **Cart Page** – Seamless cart management for a smooth checkout experience 
-✅ **Wishlist Page** – Save your favorite picks for later 
-✅ **Search Page** – Quickly find products with smart search functionality 
-✅ **Newsletter Subscription** – Stay connected with the latest offers and updates
-✅ **Optimized Performance** – Fast-loading and lightweight 
+✅ **Cart Page** – Seamless cart management for a smooth checkout experience  
+✅ **Wishlist Page** – Save your favorite picks for later  
+✅ **Search Page** – Quickly find products with smart search functionality  
+✅ **Newsletter Subscription** – Stay connected with the latest offers and updates  
+✅ **Optimized Performance** – Fast-loading and lightweight  
 
 ## 🛠 Tech Stack
 
